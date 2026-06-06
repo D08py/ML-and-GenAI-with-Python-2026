@@ -1,4 +1,7 @@
-"""1.find sum of first 10 natural numbers 
+"""Name:Drishti Gautam
+Enroll no-06001012025
+COLLEGE:IGDTUW
+drishti1.find sum of first 10 natural numbers 
 2.find factorial of number
 3.print fibonacci series
 4.create student result system with input student details input marks calculate percentage display grade(use id-elif-else,loops)"""
