@@ -1,3 +1,9 @@
+""" STUDENT NAME:DRISHTI GAUTAM
+ENROLL NO:06001012025
+COLLEGE:IGDTUW
+WEEK 2
+ASSIGNMENT 1:
+"""
 import pandas as pd
 #step 1 libraries importing
 import numpy as np
